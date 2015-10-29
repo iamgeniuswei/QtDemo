@@ -1,0 +1,5 @@
+#ifndef LIBPCAPSTRUCT
+#define LIBPCAPSTRUCT
+
+#endif // LIBPCAPSTRUCT
+
